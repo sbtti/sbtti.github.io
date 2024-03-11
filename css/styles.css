@@ -1300,6 +1300,17 @@ footer{
         }
     }
 }
+
+
+@media screen and (max-width:600px) {
+    .projects{
+    
+        .box-container____container{
+            /*grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));*/
+            grid-template-columns: repeat(1,1fr);
+        }
+    }
+}
 @media (max-width:450px) {
     html{
         font-size: 50%;
