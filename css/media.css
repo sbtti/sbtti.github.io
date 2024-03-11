@@ -1,0 +1,9 @@
+@media screen and (max-width:940px) {
+    .projects{
+        .box-container__container{
+            .box{
+                height:;
+            }
+        }
+    }
+}
